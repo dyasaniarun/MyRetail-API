@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "hostname",
+    "type": "java.lang.String",
+    "description": "A description for 'hostname'"
+  },
+  {
+    "name": "apiParamPath",
+    "type": "java.lang.String",
+    "description": "A description for 'apiParamPath'"
+  },
+  {
+    "name": "apiPath",
+    "type": "java.lang.String",
+    "description": "A description for 'apiPath'"
+  }
+]}
